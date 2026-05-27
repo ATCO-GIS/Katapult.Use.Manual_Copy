@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Katapult Use Manual
 
 Welcome! This site contains detailed instructions for using Katapult Pro. Use it alongside the Katapult SOP Word document.
