@@ -61,13 +61,13 @@ Photo Classification is the process of classifying, calibrating, and entering in
 
 After uploading photos to a job, find the Photos page from the App Tray. 
 
-<img src="Img/grid.png" width="300">
+<img src="../../Img/grid.png" width="300">
 
 This will open a new Photos page, which is synced to the Map page. If you have a job open in the Map page, Katapult Pro will open the Photos page with that job selected.
 
 If you don't have a job open, you'll use the Job Chooser at the top left of the page to find the job.
 
-<img src="img/selectjob.png" width="300">
+<img src="Img/selectjob.png" width="300">
 
 You can navigate to other jobs by searching for the job in this Job Chooser dropdown at any point.
 
