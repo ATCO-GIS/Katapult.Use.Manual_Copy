@@ -1,0 +1,6 @@
+site_name: Katapult Use Manual
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Content: combined.md
