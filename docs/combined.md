@@ -64,13 +64,13 @@ Photo Classification is the process of classifying, calibrating, and entering in
 
 After uploading photos to a job, find the Photos page from the App Tray. 
 
-![grid](img/grid.png){ width=300 }
+![grid](img/grid.png)
 
 This will open a new Photos page, which is synced to the Map page. If you have a job open in the Map page, Katapult Pro will open the Photos page with that job selected.
 
 If you don't have a job open, you'll use the Job Chooser at the top left of the page to find the job.
 
-<img src="img/selectjob.png" width="300">
+![selectjob](img/selectjob.png)
 
 You can navigate to other jobs by searching for the job in this Job Chooser dropdown at any point.
 
@@ -80,11 +80,11 @@ You can use the “Collection Sets” button to the right of the "Open Job Choos
 
 The button to the right of the Collection Sets button is used to select all the photos within the job (and is aptly named "Select All Photos.") When this button is pressed, the photo thumbnails at the bottom will all be highlighted yellow, and a blue button will appear at the bottom right to show the number of photos selected.
 
-<img src="img/selectedphotos.png" width="300">
+![selectedphotos](img/selectedphotos.png)
 
 You can select the “X” to deselect the photos, or click the three-dot menu to see various options.
 
-<img src="img/unassociate.png" width="300">
+![unassociate](img/unassociate.png)
 
 Clicking the three dots will give you the option to unassociate photos from their location on the map, associate photos to the appropriate location on the map, delete photos from the job, or sort the photos by various categories.
 
@@ -94,11 +94,11 @@ Selecting photos can also be done by holding the “Ctrl” key on the keyboard 
 
 ## Katapult Pro Photos Layout
 
-<img src="img/photolayout.png" width="500">
+![photolayout](img/photolayout.png)
 
 As you select a photo from the bottom photo ribbon, the photo will be displayed in the center of the page. You can see which image you are currently on at the top of the window.
 
-<img src="img/image.png" width="300">
+![image](img/image.png)
 
 Here you can see the photo above would be photo 2 of 39. You can see a preview of the previous and next photo to the sides of the selected photo.
 
