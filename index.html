@@ -15,6 +15,10 @@
     .content {
       padding-top: 20px;
     }
+ 
+    img {
+      max-width: 100%;
+    }
   </style>
 </head>
  
@@ -24,14 +28,21 @@
   <script>
     window.$docsify = {
       name: 'Katapult Use Manual',
+ 
+      homepage: 'combined.md',
+ 
       loadSidebar: true,
-      subMaxLevel: 3,
+ 
+      subMaxLevel: 4,
+ 
       auto2top: true,
+ 
       search: 'auto'
     }
   </script>
  
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+ 
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
