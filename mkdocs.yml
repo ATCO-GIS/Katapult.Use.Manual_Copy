@@ -1,7 +1,9 @@
 site_name: Katapult Use Manual
 theme:
   name: material
+  custom_dir: docs
+  extra_css:
+    - stylesheets/extra.css
 nav:
   - Home: index.md
   - Content: combined.md
-
