@@ -11,7 +11,7 @@ Welcome! This site contains detailed instructions for using Katapult Pro. Use it
 
 The sidebar contains links to each section. Click on any topic to jump to that section.
 
-## What's Inside
+## Manual Summary
 
 - **Photos Overview and Classification** – How to classify photos, calibrate measurements, and enter photo data
 - **Annotations, Tracing, & Hardware Details** – How to mark up poles, trace cables, and enter attachment information
