@@ -62,13 +62,13 @@ Photo Classification is the process of classifying, calibrating, and entering in
 
 After uploading photos to a job, find the Photos page from the App Tray. 
 
-<img src="img\grid.png" width="300">
+<img src="img/grid.png" width="300">
 
 This will open a new Photos page, which is synced to the Map page. If you have a job open in the Map page, Katapult Pro will open the Photos page with that job selected.
 
 If you don't have a job open, you'll use the Job Chooser at the top left of the page to find the job.
 
-<img src="img\selectjob.png" width="300">
+<img src="img/selectjob.png" width="300">
 
 You can navigate to other jobs by searching for the job in this Job Chooser dropdown at any point.
 
@@ -78,11 +78,11 @@ You can use the “Collection Sets” button to the right of the "Open Job Choos
 
 The button to the right of the Collection Sets button is used to select all the photos within the job (and is aptly named "Select All Photos.") When this button is pressed, the photo thumbnails at the bottom will all be highlighted yellow, and a blue button will appear at the bottom right to show the number of photos selected.
 
-<img src="img\selectedphotos.png" width="300">
+<img src="img/selectedphotos.png" width="300">
 
 You can select the “X” to deselect the photos, or click the three-dot menu to see various options.
 
-<img src="img\unassociate.png" width="300">
+<img src="img/unassociate.png" width="300">
 
 Clicking the three dots will give you the option to unassociate photos from their location on the map, associate photos to the appropriate location on the map, delete photos from the job, or sort the photos by various categories.
 
@@ -92,11 +92,11 @@ Selecting photos can also be done by holding the “Ctrl” key on the keyboard 
 
 ## Katapult Pro Photos Layout
 
-<img src="img\photolayout.png" width="500">
+<img src="img/photolayout.png" width="500">
 
 As you select a photo from the bottom photo ribbon, the photo will be displayed in the center of the page. You can see which image you are currently on at the top of the window.
 
-<img src="img\image.png" width="300">
+<img src="img/image.png" width="300">
 
 Here you can see the photo above would be photo 2 of 39. You can see a preview of the previous and next photo to the sides of the selected photo.
 
@@ -108,7 +108,7 @@ The little upward-facing carrot arrow at the bottom of the picture, "^," will op
 
 ### Photo Colors
 
-<img src="img\colors.png" width="300">
+<img src="img/colors.png" width="300">
 
 As the photos are classified, the color of the thumbnail within the photo ribbon will change.
 
@@ -119,16 +119,16 @@ As the photos are classified, the color of the thumbnail within the photo ribbon
 - **Red** - This is the photo that is currently displaying in the middle of the screen in Katapult Pro Photos.
 - **Yellow** - These are photos that are selected, which can then be unassociated, deleted or sorted
 
-<img src="img\tips.png" width="300">
+<img src="img/tips.png" width="300">
 
 - **Darker Tip** - If the photo has a darker shade of its color cap at the top, it means the photo is associated to a node within the job.
 - **Red Tip** - The cap will turn red if there is a location selected in the Maps page to indicate that those photos are associated with the selected location.
 
-<img src="img\cyan.png" width="200">
+<img src="img/cyan.png" width="200">
 
 - **Cyan Tip** - The cap will turn cyan if those photos are associated to the same location that the selected photo (the red photo tab) is associated to.
 
-    <img src="img\grey.png" width="150">
+    <img src="img/grey.png" width="150">
 
         ⚠️ If you see a dark gray tab, this is a photo that was unable to fully upload because the upload process may have been interrupted. You'll have to re-upload the pictures. You can re-upload the whole picture set, and any duplicates will be skipped.
 
@@ -139,7 +139,7 @@ To start classifying photos, click on your starting photo in the photo ribbon. Y
 
     ⚠️ If multiple users are in the same job classifying, you will see the other user’s avatar over top of the photo they are currently working on.
 
-<img src="img\pole.png" width="500">
+<img src="img/pole.png" width="500">
 
 Next, click on the photo to create a temporary input marker, opening the one-click-menu, and click on the 
 black icon to the left of the dropdown, the Photo Toolset Chooser. This button allows you to switch between photo toolset picklists that would be used in annotation and classification for different workflows. Choose the "Classify" option under this button. 
@@ -148,7 +148,7 @@ Once selected, you can use the dropdown to see the pick list of current classifi
 
 As you classify, a photo data chip (or photo chip) will be added to the photo at the top right of the photo window for that photo.
 
-<img src="img\hallway.png" width="300">
+<img src="img/hallway.png" width="300">
 
 You can click on the chip to expand its details. Using the three dot menu, you can add or remove attributes, or you can delete the chip by clicking the trash can icon.
 
@@ -160,13 +160,13 @@ For any photo that will require calibration (Midspans and Pole Heights), once th
 
 For example, if you have a midspan shot, and you click “m” on the keyboard to utilize the midspan shortcut, the software will start the midspan height routine.
 
-<img src="img\over.png" width="500">
+<img src="img/over.png" width="500">
 
 Once you select that, the software will start with the height routine. So your very next click will place a 16.5’ height marker. Zoom in on the photo to look for the top calibration sticker at 16.5'. Once your crosshair (circled in orange) is in the middle of the white square, go ahead and click.
 
     ⚠️You can hold the Shift key and click near the top calibration target sticker to use Katapult Pro's Target Detection without zooming in on the photo. 
 
-<img src="img\zoom.gif" width="600">
+<img src="img/zoom.gif" width="600">
 
 As soon as you click, the software will automatically go to the next height in the routine, which is 14.5'. You can zoom out on the photo and zoom in at that next height calibration sticker, or you can use the down or up arrows on the keyboard to pan down or up the photo at your current zoom level. Each click will place the anchor and advance to the next anchor in the routine. Repeat this process until the routine has finished.
     
@@ -180,33 +180,33 @@ The software will also give you warnings depending on the approximate accuracy o
 
     ⚠️ These warnings are useful if you need to place a calibration anchor on the red and white lines or purple target stickers because of a calibration target being covered. Just because the markers turn green does not guarantee the +/- 3 in. accuracy. You are guaranteed accuracy if you use the calibration targets or properly make use of the red or white lines on the stick.
 
-<img src="img\yellow.png" width="400">
+<img src="img/yellow.png" width="400">
 
 If the calibration is **yellow**, one of your anchor points is definitely off a bit.
 
-<img src="img\red.png" width="400">
+<img src="img/red.png" width="400">
 
 A **red** calibration shows that one or more is off to a greater extent. Double check that your anchors are placed correctly and that the stick is fully extended. Accuracy of measurements can only be guaranteed if the calibration is performed correctly at the given targets.
 
-<img src="img\green.png" width="400">
+<img src="img/green.png" width="400">
 
 If any calibration anchor markers are poorly placed, you can replace them using the Re-enter Calibration Anchor tool. This will prompt you re-etner the anchor marker using the same height measurement. 
 
-<img src="img\placed.png" width="400">
+<img src="img/placed.png" width="400">
 
     ⚠️ Once anchor markers are placed, you are NOT able to move them around or change the height. You will need to delete the marker or re-enter it.
 
-<img src="img\poletag.png" width="400">
+<img src="img/poletag.png" width="400">
 
 For classifications that require data to be entered, such as tags and birthmarks, you will be able to enter the necessary data in the text line of the chip's details.
 
 ## Photo Info and Editing
 
-<img src="img\arrowup.png" width="400">
+<img src="img/arrowup.png" width="400">
 
 If you need to see the photo details or make any edits to the photo to help enter data, you can expand the window below the photo.
 
-<img src="img\info.png" width="600">
+<img src="img/info.png" width="600">
 
 The Info section will display the photo's information. Here, you can see all the camera and lens settings, as well as the date the photo was taken and the users that uploaded or edited the photo.
 
@@ -214,7 +214,7 @@ The Info section will display the photo's information. Here, you can see all the
 
 You can also click on the blue “FIND IN MAPS” button in this info section to zoom to the location in Katapult Pro Maps where the photo is associated.
 
-<img src="img\edit.png" width="600">
+<img src="img/edit.png" width="600">
 
 Under Edit, you can mark a photo for re-upload, rotate the photo, and you can adjust the photo’s brightness and contrast. (Our software skips photos already uploaded to a job when photos are re-uploaded, so marking a photo for re-upload means that photo will get overwritten on re-upload.) Clicking the “Reset Filters” button will set the brightness and contrast back to zero.
 
