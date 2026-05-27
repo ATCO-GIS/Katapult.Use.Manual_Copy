@@ -1,23 +1,5 @@
 ## Table of Contents
 
-- [Office Power Tools Manual](#office-power-tools-manual)
-  - [Multi Edit Attribute](#multi-edit-attribute)
-  - [Multi Delete](#multi-delete)
-  - [Tally by Polygon](#tally-by-polygon)
-  - [Copy Nodes](#copy-nodes)
-  - [Join All Poles](#join-all-poles)
-  - [Show Un-Associated Photos](#show-un-associated-photos)
-  - [Un-Associate Photos](#un-associate-photos)
-  - [Insert Sections](#insert-sections)
-  - [Address Data](#address-data)
-  - [Fix Map Errors](#fix-map-errors)
-  - [Clear Warnings](#clear-warnings)
-  - [Star Height Photos](#star-height-photos)
-  - [Fix Company Names](#fix-company-names)
-  - [Draw Polygon](#draw-polygon)
-  - [Bulk Pole Loading](#bulk-pole-loading)
-  - [Offset Lines](#offset-lines)
-
 - [Photos Overview and Classification Manual](#photos-overview-and-classification-manual)
   - [Katapult Pro Photos Layout](#katapult-pro-photos-layout)
   - [Photo Colors](#photo-colors)
@@ -55,6 +37,23 @@
   - [Right of Way](#right-of-way)
   - [Standard Ground Clearance](#standard-ground-clearance)
 
+- [Office Power Tools Manual](#office-power-tools-manual)
+  - [Multi Edit Attribute](#multi-edit-attribute)
+  - [Multi Delete](#multi-delete)
+  - [Tally by Polygon](#tally-by-polygon)
+  - [Copy Nodes](#copy-nodes)
+  - [Join All Poles](#join-all-poles)
+  - [Show Un-Associated Photos](#show-un-associated-photos)
+  - [Un-Associate Photos](#un-associate-photos)
+  - [Insert Sections](#insert-sections)
+  - [Address Data](#address-data)
+  - [Fix Map Errors](#fix-map-errors)
+  - [Clear Warnings](#clear-warnings)
+  - [Star Height Photos](#star-height-photos)
+  - [Fix Company Names](#fix-company-names)
+  - [Draw Polygon](#draw-polygon)
+  - [Bulk Pole Loading](#bulk-pole-loading)
+  - [Offset Lines](#offset-lines)
 
 # Photos Overview And Classification
 
