@@ -272,7 +272,7 @@ To add a marker, select the correct or closest option from the dropdown. You can
 
 Once you find the correct option, click it. If it is a routine, the software will run you through the entire routine. For example, if the "Ridge Pin & 2 On Arm (2)" was selected, the top ridge pin would be placed first, and the next click on the photo would place the 8' arm with 2 pins nested in it. (The 2 in parentheses tells us that we could hit '2' on the keyboard instead of left-clicking to open the One-Click Menu to run through this routine.)
 
-![crossarm](img/crossarm.gif){width=500}
+![crossarm](img/crossarm.gif)
 
 When you place a marker on the photo, you want to make sure you click where the bolt goes through the pole face you are measuring for consistency. Be sure to account for parallax that occurs; if the bolt is not on the front-facing side of the pole, it may mean that the bolt hole is slightly above or below the bolt, depending on what side of the pole it's on.
 
@@ -282,37 +282,37 @@ Now that the markers are placed, you can move them by clicking on the handle of 
 
 If you right-click on a marker, it will open up the details window for that marker. When items are nested, right click on the item you need to edit. For example, in the above GIF, you could right-click on the brownish 8’ arm marker to edit the spec of the arm. If you want to edit the insulator, you should right-click on the greenish portion of the handle. Lastly, if you have to make edits to the wire, right-click on the bluish purple marker.
 
-<img src="img/marker.png" width="500">
+![marker](img/marker.png)
 
 For wires, you will have two tab options: Marker and Trace. Marker attributes pertain to any data that should exist only on that specific marker where the attachment is located in the picture. Trace attributes will contain any data that should be updated throughout the wires' trace in the job and will be shared across multiple markers (such as the Company, Cable Type, etc.).
 
-<img src="img/markercheck.png" width="500">
+![markercheck](img/markercheck.png)
 
 Under the trace tab, you will find Cable Type and Company attributes. You can change the cable type at any time by clicking in the textbox and searching for the appropriate option from the pick lists. You are able to do the same thing with "Company." Look through the pick list to find the correct company.
 
 For the Utility company, you may want to check the box to set it as the default. This will allow you to quickly place utility wires and equipment. With the default box checked, the company name will auto-fill.
 
-<img src="img/utilitycompany.png" width="500">
+![utilitycompany](img/utilitycompany.png)
 
 Up at the top of the wire menu towards the right will be 4 symbols. Clicking the carrot arrow will collapse or expand the wire menu. The stacked boxes with an arrow pointing from one to the other will remove the item from where it is nested, popping it out of the annotation(s) it's inside.
 
 ## Nested Markers
 
-<img src="img/marker.gif" width="500">
+![marker](img/marker.gif)
 
 You can remove a wire from an insulator, and you can also remove an insulator with a nested wire from an arm. So make sure you are at the correct item when you click the button to 'pop out' that item.
 
 The wire or 'insulator and wire' bundle will be placed at the same height when the button is clicked. (See GIF above.) If you need to nest a wire or bundle into an arm, just left-click and hold on the bundle you want to move into the arm. Make sure the cursor is over the marker you want to add to, and once you see the “Drop to Add” text, you can release the click. Again, you are going off the cursor position, not the circle that marks the height of attachment.
 
-<img src="img/primary.png" width="500">
+![primary](img/primary.png)
 
 
 ## Marker + Trace More Options
-<img src="img/marker2.png" width="500">
+![marker2](img/marker2.png)
 
 Moving along the wire's menu at the top, clicking the Three Dot Menu will open more options. Under the Marker tab, you will be able to add or remove attributes if needed.
 
-<img src="img/marker3.png" width="500">
+![marker3](img/marker3.png)
 
 The available options under the Trace tab deal with the trace of the wire. Clicking the "Proposed" option that's listed first will mark the wire as 'proposed.' Doing this will add a proposed checkbox to the wire. You can click on the checkbox to unmark the wire as 'proposed.'
 
@@ -320,39 +320,39 @@ Under these options, you can also add a marker to a trace, remove a marker from 
 
 ## Delete Markers
 
-<img src="img/trashcan2.png" width="500">
+![trashcan2](img/trashcan2.png)
 
 The last button in the top right of the marker's menu is the trash can icon or delete button. This will delete the marker and anything nested in the marker as well.
 
 ## Power Space
 
-<img src="img/powerspace2.png" width="500">
+![powerspace2](img/powerspace2.png)
 
 Once the top assembly is marked up, keep moving down the pole. Look for any equipment or other attachers you need to mark. In the above image, the next wire is a neutral at 30'-6". You can click on the photo to place a temporary input marker, then search for a neutral option.
 
     ⚠️ The picklist will come from the pole loading analysis platform you are using. If you are not doing PLA, you will be able to use a “wire” marker and select the cable type after the wire is placed. You will not need an insulator.
 
-<img src="img/tag.png" width="500">
+![tag](img/tag.png)
 
 Because you set the Power company as the default, you will not need to go into the trace options of the wire to enter the company. If you need to change anything, you can right-click on the insulator or wire to open its details.
 
 Continue moving down the pole, marking all attachments and equipment.
 
 ## Photo Chooser
-<img src="img/photocircle.png" width="200">
+![photocircle](img/photocircle.png)
 
 If you need to, you can click on the “Photo Chooser” button at the bottom left of the photo to see all reference photos for that pole location. Use these photos to identify communication owners, check for equipment, and see other angles of the pole.
 
 If your field crews did take multiple pole height shots, you can also set which one is best and should be used as the main photo by clicking the star icon at the top right of the photo. To exit the Photo Chooser view, click the gray space on the photo. This will take you back to your main photo for trace view.
 
 ## Communication Space
-<img src="img/verticalline.png" width="500">
+![verticalline](img/verticalline.png)
 
 When you get to the communication space, find your 'wire' option. For those who don’t have PLA or don’t have communication bundles, it will only be “wire," while for those who have bundles, find the "insulator, messenger, and wire" option so that you can build the communication bundles properly.
 
 Again, click on where the bolt goes through the pole while accounting for parallax. Once you click the wire option, the software will automatically go into the trace routine (it will want you to trace that wire to where it is at the midspan).
 
-<img src="img/click.png" width="300">
+![click](img/click.png)
 
 You will know you're in the software's trace routine when you see the notification in the bottom left corner of the screen that says "Click on the makers to connect."
 
@@ -360,16 +360,16 @@ You will know you're in the software's trace routine when you see the notificati
 
 Then you can fill in the Cable Type and Company. If you can’t identify the company yet, you can list them as “Unknown” until you are able to find a comm ID photo.
 
-<img src="img/marker4.png" width="500">
+![marker4](img/marker4.png)
 
 Because the wires are traced through the job, anything you update or change in the trace tab of one wire will propagate throughout the entire trace. So once you update the Company name at a single location, the company will update throughout the rest of the markers that were traced together.
 
-<img src="img/line.png" width="500">
+![line](img/line.png)
 
 If communication wires are boxed and run through the same span, include both attachments. In the above example one is a fiber optic cable, and the other is a telco attachment. The wires are placed at the same height of 23'-2”.
 
 ## Copying + Pasting Markers
-<img src="img/line2.png" width="500">
+![line2](img/line2.png)
 
 If you have multiple wires from the same company, you can use a copy and paste shortcut so that you don’t need to click on the photo and add a wire and its details for each one.
 
@@ -377,26 +377,26 @@ To copy a marker, left-click on the wire, equipment, or bundle you want to copy 
 
 Now left-click on the photo again to remove the yellow border around the marker. You can now hover your mouse cursor over the photo where you need to paste the marker. You do not need to click the mouse again. If you press "Ctrl + V" on the keyboard, the marker will be pasted at the height of the cursor.
 
-<img src="img/morelines.png" width="500">
+![morelines](img/morelines.png)
 
     ⚠️ You can use the copy and paste shortcut even if the wires, bundles, or equipment are not exactly the same. Often, copying then changing some details (i.e. a spec or a company) is quicker then clicking, adding a new marker, and filling out all its details.
 
 Once the pole is all marked up, you can now start tracing the wires across to the midspan(s).
 
 ## Tracing Cables
-<img src="img/2monitors.png" width="500">
+![2monitors](img/2monitors.png)
 
 You will have two options for tracing the wires to the midspan. You can do one wire or bundle at a time by hitting “~” on the keyboard (to the left of the "1" key). Or you can hit "Alt + ~” to initiate a trace routine (which we call the Extraction Loop) that will start at the top of the pole and work down automatically.
 
 If you press only “~,” you will see that notification at the bottom left of the screen to “Click on the markers to connect.” You will now be able to click a marker on the pole (make sure to click the outermost portion of the handle if you are clicking on a bundle).
 
-<img src="img/monitor.gif" width="600">
+![monitor](img/monitor.gif)
 
 Once you have your marker selected, you will see a yellow border around the marker. You can now move your mouse cursor to the midspan photo and zoom in on that wire in the midspan. When the tip of the cursor is placed correctly, left-click to place the wire.
 
     ⚠️ As soon as you start the trace, a quick left-click will place the wire, so be intentional about where you click. You can always left-click and hold to move the photo around, but a quick left-click will place the marker. Also, make use of the wheel on your mouse to zoom in on the photo to accurately place the wire.
 
-<img src="img/3.png" width="600">
+![3](img/3.png)
 
 Now that the wire is placed, the trace action will end. You can see how the wire is traced because a yellow border will be around the wire in the midspan, and a yellow rectangle will appear to the left of the nested neutral on the pole. (If it wasn't nested in an insulator, it would be highlighted in a yellow border as well.)
 
@@ -407,15 +407,15 @@ Repeat this process until all appropriate wires have been traced to the midspan.
     ⚠️ This method is good for one off wires or for taps coming off a pole line, but generally you should use the trace routine, or Extraction Loop.
 
 ## Extraction Loop
-<img src="img/4.png" width="600">
+![4](img/4.png)
 
 Hitting "Alt + ~" will commence the Extraction Loop. (Use "option + ~" if you are using a Mac.) The Extraction Loop will start at the top marker and work down. You will know you are in the routine if you see the notification pop up at the bottom left of the screen that says "In extraction loop. Press Esc to go onto the next item," which you can do if you don't need to trace the wire to that midspan.
 
-<img src="img/4.gif" width="600">
+![4](img/4.gif)
 
 As you click to place the wire in the midspan, the routine will automatically go to the next marker in the photo based off of height. So again, make sure you only left-click on the midspan photo to place the correct marker. If you need to move the photo around to have a better field of view, long click and move the photo, then release the click once the photo is in a good position.
 
-<img src="img/5.png" width="600">
+![5](img/5.png)
 
 When you get to wires that are boxed, the software will first go to the marker handle that is higher up on the photo (even if they are at the same height). So just make sure you are aware of which marker the software has selected (which one is highlighted) when tracing to the midspan.
 
@@ -423,11 +423,11 @@ To skip a marker that's not in the midspan but is highlighted on the pole, click
 
 When you get done with the last marker, the Extraction Loop will end automatically. You can now reposition wires if needed or right-click on a wire to add data or attributes.
 
-<img src="img/7.png" width="600">
+![7](img/7.png)
 
 Once the pole and midspan are set, keep the Photos page tab open, but return to the Map page and click on the next connection. In the above photo, this will be the first aerial connection. Clicking the connection will open up that span’s photos; in the above instance, this is the pole-midspan-midspan-pole photos.
 
-<img src="img/2.gif" width="600">
+![2](img/2.gif)
 
 Now, because the one pole is already done, you can use the Extraction Loop routine to trace the wires to the midspan(s) and to the next pole.
 
@@ -437,7 +437,7 @@ Remember, whichever photo your cursor is over, that is the photo you are current
 
 When you get to the communication wires, because the diameter was already set, you do not need to set it again, but you can adjust the diameter if the wire size does change.
 
-<img src="img/8.png" width="600">
+![8](img/8.png)
 
     ⚠️ It is helpful to position the photos in a way that makes marking the communication wires easier. Try framing the midspan(s) and next pole photo in a way where you are zoomed in enough to accurately place the wire but aren’t too far in that you need to keep zooming out or in for each wire.
 
@@ -449,29 +449,29 @@ During this step, you should only be worried about tracing the wires to the next
 
 We have developed photo warnings to bring your attention to potentially problematic data that should be fixed, typically in relation to the annotations you place, but sometimes there will be warnings with the photos themselves. These warnings are provided on height photos where measurements are used, so they will appear if there is an issue once they are calibrated and have annotations. The severity of the warnings correlate with the software's confidence that the entered data is erroneous. There are three severity levels:
 
-<img src="img/i.png" width="100">
+![i](img/i.png)
 
 - **Info** We are bringing your attention to something that may need fixing. The icon is a blue circle, depicted to the left. 
 
-<img src="img/caution.png" width="100">
+![caution](img/caution.png)
 
 - **Warning**. We are more confident that the entered data is an issue and should be addressed in some manner. Exercise good judgement when addressing these warnings. The icon is a yellow triangle, depicted to the left.
-
-<img src="img/!.png" width="100">
+ 
+![!](img/!.png
 
 - **Error**. This will most likely affect the accuracy of the software's output. We strongly recommend retaking the height photo to correct the mistake that was initially made when capturing the height photo.
 
 Whether you're viewing the height photo in the Maps page or on the Photos page, photos that have any warnings will have a warning icon in the bottom right corner of the photo, corresponding with the style of its most severe warning.
 
-<img src="img/orangewarning.png" width="500">
+![orangewarning](img/orangewarning.png)
 
     ⚠️ Use the Toggle Measurement Area button (brown icon) in the bottom left of any height photo. This will outline the area of the photo where the pole should be visible. Any measurements placed outside of this framing may produce photo warnings. This feature will also create yellow and red bands at the top of the photo where measurements do not fall within the standard accuracy.
 
-<img src="img/rectangle.png" width="400">
+![rectangle](img/rectangle.png)
 
 For example, this height photo's most severe warning is an informational warning. Clicking the warning icon in the bottom right of the photo (circled in orange above) will open the Photo Warnings window. Here we see that there are two warnings for markers, identified by their height. If the photo itself had a warning (for example, if the main camera operator took the photo too close to the pole), that would show up in this window as well.
 
-<img src="img/9.png" width="600">
+![9](img/9.png)
 
 Markers with warnings will also show the warning icon to the right of their height, corresponding with the warning's severity. Click on the "i" icon to open the warning's information. This is the same warning that is provided in the Photo Warnings window.
 
@@ -494,13 +494,13 @@ Markers with warnings will also show the warning icon to the right of their heig
 
 - **When tracing, most times the extraction loop will be quicker,**
 
-<img src="img/11.png" width="600">
+![11](img/11.png)
 
 but if you have just one or two taps coming off the pole to a reference (like above), it may be quicker to use “~” and select the correct wires to trace.
 
 - **You can add the attribute "Wire Tension" to a wire and select the appropriate tension for that wire.**
 
-<img src="img/12.gif" width="600">
+![12](img/12.gif)
 
 Full tension is the default, so you only need to adjust the tension when appropriate.
 
@@ -512,7 +512,7 @@ Full tension is the default, so you only need to adjust the tension when appropr
 
 - **As you need to mark up equipment on the pole that contains a routine, the step of the routine will be displayed at the top left of the page.**
 
-<img src="img/13.png" width="600">
+![13](img/13.png)
 
 Look for what measurement you should be clicking on. In the above example, the next click will place the top bolt of a transformer. Once you left-click on the photo to place that marker, the routine will then advance to the next measurement you need to mark for that equipment.
 
@@ -520,42 +520,42 @@ Look for what measurement you should be clicking on. In the above example, the n
 
 - **Two people can perform cable tracing on a job together.**
 
-<img src="img/14.png" width="600">
+![14](img/14.png)
 
 Each should start at a different end of the job. Once you get to the point where you meet up, you will need to join the traces together. For this, you will need to run “~” to trace and select the wire only -- even in bundles. You can then select what wire on the other pole you want to join to. Be sure to select the correct wire, because splitting the trace after the fact can be tricky. Do this for each wire.
 
 - **If you get to a wire in a trace that is marked differently,** (in the below example, the Fiber Optic Com was Unknown on the left pole and the Fiber Optic Com was identified as Fiber on the right pole), **you will have the option of which value you want to keep.**
 
-<img src="img/15.png" width="600">
+![15](img/15.png)
 
 Here, Fiber would be selected since it was identified. Once you select a company and click “Join,” the company of the trace will be updated to the one you selected through the entire trace.
 
 - **If you need to split a tracing error where wires were joined incorrectly, go into the Trace tab of the wire, and click “Split.”**
 
-<img src="img/split.png" width="400">
+![split](img/split.png)
 
 This will open up a window to split the trace. Click “Okay” and return to Maps. **The wire’s trace will be highlighted blue on the map.** If you only wanted to check where a trace is within the job, you can click "Cancel" at this point.
 
-<img src="img/cyan.gif" width="600">
+![cyan](img/cyan.gif)
 
 Or you can now draw a polygon around the poles and sections you want to keep in the trace. This will disconnect markers outside the polygon from the trace.
 
 - **If you have a vertical transition, mark each bolt on the pole, but do not trace the wires together on the pole.**
 
-<img src="img/17.png" width="400">
+![17](img/17.png)
 
 Just trace the appropriate wire to its corresponding midspan.
 
 - **If you are doing a workflow that uses communication bundles, overhead guys will not use the bundle.**
 
-<img src="img/19.png" width="400">
+![19](img/19.png)
 
 You will simply enter them as wires and select the Cable Type as a guy (power guys will be labeled as power guys in their Cable Type attribute).
 
 
 - **If you have a stub pole, where the communication wires have not transferred yet, typically we place them on the new pole.**
 
-<img src="img/20.png" width="400">
+![20](img/20.png)
 
 This way we can call for a transfer height during the Make Ready step.
 
@@ -563,7 +563,7 @@ This way we can call for a transfer height during the Make Ready step.
 
 - **If a midspan was not collected, you can always use the “Insert Blank Photo for Measuring?” button at the bottom to insert a dummy photo to trace the wires.**
 
-<img src="img/insert.png" width="200">
+![insert](img/insert.png)
 
 This should only be used if the midspan contains no violation, and it's typically used as a last resort to help build the 3D model of the pole. Most often, you should have your crews recollect sections or poles that were missed.
 
@@ -574,7 +574,7 @@ This should only be used if the midspan contains no violation, and it's typicall
 
 ### **Power Pole:**
 
-<img src="img/poleanatomy.jpg" width="500">
+![poleanatomy](img/poleanatomy.jpg)
 
 
 ### **Transmission power line:**
@@ -588,38 +588,38 @@ Electric power distribution is the final stage in the delivery of electricity. E
 
 **Power pole with distribution and transmission power:**
 
-<img src="img/powerpole.jpg" width="500">
+![powerpole](img/powerpole.jpg)
 <br></br>
 
 **Power pole with transmission power:**
 
-<img src="img/dist.jpg" width="500">
+![dist](img/dist.jpg)
 <br></br>
 
 **Power pole w/ distribution power:**
 
-<img src="img/transmission.jpg" width="500">
+![transmission](img/transmission.jpg)
 <br></br>
 
 <br></br>
 
-<img src="img/powerequip.png" width="700">
+![powerequip](img/powerequip.png)
 
 <br></br>
 
-<img src="img/powerline.png" width="700">
+![powerline](img/powerline.png)
 
 ### **Communication Pole:**
 
 Typically, communication companies (copper, fiber and coaxial cable have a shared space below power on the power pole. On occasion, communication will have its own pole line with no power attachments as pictured below.
 
-<img src="img/22.png" width="250"><img src="img/23.png" width="206">
+![22](img/22.png)><![23](img/23.png)
 
 ## **Drop Pole:**
 
 Whenever power or communication need to provide a service drop to a customer, sometimes a drop pole is used to provide the service to customer that resides at further distances from the mainline distribution poles. Below are a few examples.
 
-<img src="img/drop.png" width="400">
+![drop](img/drop.png)
 
 ## **Pole Class:**
 
@@ -627,37 +627,37 @@ Utility poles are divided into ten classes, from 1 to 10. The classes' definitio
 
 
 
-<img src="img/table.png" width="500">
+![table](img/table.png)
 
 ## **Identification Placement of Attachments on a Pole**
 
-<img src="img/attachment.jpg" width="500">
+![attachment](img/attachment.jpg)
 
 The diagram above is a general representation of placement of power utilities and communication utilities on a utility pole. The shared communication space can include singular or any combination of copper, fiber, and coaxial cables.
 
 ## **Electric, Fiber Optic, Telephone Cooper, and Coaxial Cable Identification**
-<img src="img/identify.jpg" width="500">
+![identify](img/identify.jpg)
 
 
 Electric utilities are identified above in 3 basic areas: Primary – highest voltage to substations. Secondary – lower voltage to transformers. Service – lowest voltage to provide individual service. Electric will also include a power neutral; all communications cables reside below this neutral.
 
 Coaxial cable can be utilized by communication companies to provide telephone, internet and cable services to customers. 
-<img src="img/cross.jpg" width="300"><img src="img/transformer.jpg" width="300">
+![cross](img/cross.jpg)><![transformer](img/transformer.jpg)
 
 Several items help to identify coaxial cables, the most noticeable are the tension loops which are common with aluminum cables.  They look like a dipped area that appears to be almost accidental, but their purpose is to keep the cable from becoming too taught in extreme weather conditions. Coaxial splice cases are almost always a bullet-shaped case with all of the cables and services coming out of the same end, the flatter end. Coax also has regular amplifiers, galvanized steel cases with straight slotted vents on the side. Coaxial cable also has splitters.  These are usually a light olive green and rather squared in shape.  They also tend to have numerous cables and services coming from the splitters.
 
-<img src="img/CATV.jpg" width="600">
+![CATV](img/CATV.jpg)
 <br><br>
 Telephone copper cable can be utilized by communication companies to provide telephone and internet services.
 <br><br>
-<img src="img/1.jpg" width="300"><img src="img/2.jpg" width="332">
+![1](img/1.jpg)><![2](img/2.jpg)
 
 
 Telephone cables are usually the top communication cable.  This is because of the extensive period in which the telephone was the only communication method.  Coaxial and fiber cables came along much later. The only telephone cables you are likely to see will be black polyethylene, and rather thick.  They have a rectangular splice box. Telephone cables vary in thickness depending on the number of pairs in the cable. Usually larger than coaxial or fiber.
 
 Fiber optic cable can be utilized by communication companies to provide internet services. Fiber optic technology has become a primary source for communication companies that want to provide high speed internet services. 
 
-<img src="img/snowshoe.jpg" width="400"><img src="img/3.jpg" width="265">
+![snowshoe](img/snowshoe.jpg)><![3](img/3.jpg)
 
 
 Fiber optic cables always have that black polyethylene jacket and are rather small in diameter. Their most noticeable feature are the snowshoe loops, a pair of hoop attachments where the fiber cable is looped back and forth multiple times. Fiber splice cases are usually more rounded on the ends than phone splice cases. Fiber cables also often have orange bands attached at various places along the pole line to quickly identify them.
@@ -668,50 +668,50 @@ A guy-wire, guy-line, guy-rope, down guy, or stay, also called simply a guy, is 
 
 In ground-anchored guys, the structure which attaches the guy-wire to the ground is called an anchor.[2] The anchor must be adequate to resist the maximum tensile load of the guy wires; both the dead load of the tension of the wire and the maximum possible live load due to wind. Since the guy wire exerts its force at an angle, the anchor has both vertical and lateral (horizontal) forces on it. The anchor relies on the lateral shear strength of the soil to resist the forces from all the guys attached to it.
 
-<img src="img/drop1.png" width="300"><img src="img/guy.png" width="266">
+![drop1](img/drop1.png)><![guy](img/guy.png)
 
 ## **Strand and Lash**
 Strand and lash consist of a steel support strand used to support any type of communications cable, typically held in place with a stainless steel lashing wire. A lasher can lash with one strand of lashing wire (single lashed) or with two strands (double lashed)
 
-<img src="img/lash.jpg" width="500">
-<img src="img/strand.png" width="500">
+![lash](img/lash.jpg)
+![strand](img/strand.png)
 
 ## **Transfer of Attachments**
 
 Power companies will often replace existing poles with new. In many cases they will remove the top of the old pole after they have transferred their attachments to the new pole. This will result in 2 poles in same location. Power companies are dependent on communication companies to remove old pole/attachments and reattach to new pole. 
 
-<img src="img/30.png" width="150"><img src="img/31.png" width="250">
+![30](img/30.png)><![31](img/31.png)
 
 ## **Mid-Span Tap (Attachment/Crossover)**
 Communication lines will occasionally utilize what is called a mid-span tap. These are always accompanied by a splice case nearby. The purpose of these is to distribute cable in multiple directions when no pole is present or even possible to place.
 
-<img src="img/tree.png" width="350"><img src="img/sky.png" width="250">
+![tree](img/tree.png)><![sky](img/sky.png)
 
 ## **Common Underground Facility Markers and Equipment**
 
 When performing pre-fielding, fielding, design and construction of communications facilities, it is sometimes necessary to use an underground approach rather than aerial. In these cases, it is important to be able to identify existing underground facilities. In most cases, it is common to utilize the same areas when constructing a new communication line. Below are some common facility markers and equipment that communication and electric companies use.
 
-<img src="img/ped.jpg" width="500">
+![ped](img/ped.jpg)
 
 Pad mount Electrical Transformer indicates buried electric facilities. In aerial placement there is a pole mounted transformer.
 
-<img src="img/gas.jpg" width="350">
+![gas](img/gas.jpg)
 
 Indicates buried gas lines, usually communication tries to stay away from gas lines whenever possible.
 
-<img src="img/hydrant1.jpg" width="370"><img src="img/hydrant2.jpg" width="250">
+![hydrant1](img/hydrant1.jpg)><![hydrant2](img/hydrant2.jpg)
 
 Fire hydrants are good indication of water lines. Communication also tries to avoid waterlines as well.
 
-<img src="img/marker1.png" width="200"><img src="img/marker2.jpg" width="300"><img src="img/marker8.png" width="250">
+![marker1](img/marker1.png)><![marker2](img/marker2.jpg)><![marker8](img/marker8.png)
 
 Fiber optic markers, handholes, and pedestals indicate buried fiber optics. Fiber markers are always orange and white and can be a cylinder or square post, Fiber handholes or tubs are usually placed flush with the ground and can be rectangular or a cylinder. They also come in many different sizes. Fiber pedestals are not as common but are usually square or round and come in several sizes. Fiber bedestals are made of plastic.
 
-<img src="img/case1.jpg" width="200"><img src="img/case2.jpg" width="315">
+![case1](img/case1.jpg)><![case2](img/case2.jpg)
 
 Copper pedestals indicate buried copper telephone lines, these pedestals are almost always square, These pedestals are usually metal.
 
-<img src="img/ax.jpg" width="350"><img src="img/ax2.png" width="181">
+![ax](img/ax.jpg)><![ax2](img/ax2)
 
 Coaxial Cable pedestals indicate buried cable television lines. These pedestals are usually square and can be made of medal or plastic depending on how long it has been there.
 
@@ -719,15 +719,15 @@ Coaxial Cable pedestals indicate buried cable television lines. These pedestals 
 
 It is usually the general rule that when constructing new underground communication routes, you almost always want to follow existing buried communication facilities. Below are a few examples of multiple utilities in the same area.
 
-<img src="img/placement.jpg" width="250"><img src="img/placement2.jpg" width="250">
+![placement](img/placement.jpg)><![placement2](img/placement2.jpg)
 
 Another general rule when placing new underground facilities is to place access points in similar locations. It is always a good idea to place them on property lines between houses or businesses to provide easy access to multiple locations from one access point. This will minimize number of access points required to serve customers. Here is an example. Notice that access points are placed in between every other house along with existing buried facilities.
 
-<img src="img/access.png" width="600">
+![access](img/access.png)
 
 ## **Right of Way**
 
-<img src="img/row.png" width="600">
+![row](img/row.png)
 
 A right-of-way (ROW) is a right to make a way over a piece of land. A right of way is a type of easement granted or reserved over the land for transportation purposes, such as a highway, public footpath, rail transport, canal, as well as electrical transmission lines, oil and gas pipelines.
 
@@ -737,7 +737,7 @@ Some common rights-of-way are 33 feet or 16.5 feet from the center for rural roa
 
 ## **Standard Ground Clearance**
 
-<img src="img/clearance.jpg" width="500">
+![clearance](img/clearance.jpg)
 
 Ground clearance refers to the distance between the ground and the lowest conductor at its lowest point. Ground clearance differs from area to area and can be dependent on what the line is crossing over. For national standards, it is best to follow NESC standards for ground clearance. 
 
@@ -753,28 +753,28 @@ Go to the "TOOLS" dropdown and select the Office Power Tools. Here you will see 
 
 ### **Multi Edit Attribute**
 
-<img src="img/pencil.png" width="50">
+![pencil](img/pencil.png)
 
 The tool that's typically first in the list is the Multi Edit Attribute tool, which is this blue-ish pencil icon tool that you'll find in the list of tools (shown above).
 
-<img src="img/attribute.png" width="300">
+![attribute](img/attribute.png)
 
 When you click the tool, the window will appear where you can select an attribute from the picklist to either add, overwrite, or remove from multiple locations.
 
 You can also select what items you want to edit: nodes, connections, sections, or a combination of the three.
 Down at the bottom of the window will be various selection options. You can either “Select All,” which would affect all items, “Select By Type,” where a window will pop up, giving you the option to select which types of nodes, sections, and/or connections you want to edit, or "Select Items," which will affect items that you either click on or draw a polygon around.
 
-<img src="img/types.png" width="300">
+![types](img/types.png)
 
 When you choose "Select By Type" and have the types selected, hit “DELETE ATTRBIUTE" (or "ADD ATTRBIUTE" if you chose the "Add" or "Overwrite" option).
 
-<img src="img/drawing.gif" width="800">
+![drawing](img/drawing.gif)
 
 The last option, “Select Items,” will allow you to click on or draw a polygon around the set of locations you would like to affect.
 
 You will need to do this for each attribute you want to multi- add, remove, or overwrite.
 
-<img src="img/multiaddd.png" width="300">
+![multiaddd](img/multiaddd.png)
 
 When removing an attribute, you can remove that attribute altogether or remove a specific instance of the attribute. For example, you can remove the "Pole Class” attribute from selected nodes, or choose to remove “Pole Class” attributes in the instance where the Pole Class is “3” from selected nodes.
 
@@ -784,11 +784,11 @@ When removing an attribute, you can remove that attribute altogether or remove a
 
 ### **Multi Delete**
 
-<img src="img/trashcan.png" width="60">
+![trashcan](img/trashcan.png)
 
 The Multi Delete tool allows you to delete multiple design items within a job at once. When you click the tool, you will be able to draw a polygon around items within the map.
 
-<img src="img/delete.gif" width="800">
+![delete](img/delete.gif)
 
 Then you can select whether you want to delete all nodes, connections, or sections contained in the polygon. (Notice at the bottom left corner, a counter pops up to show how many nodes, connections, and sections are contained in the polygon.)
 
@@ -801,11 +801,11 @@ When you click “Finish,” the software will ask if you are sure you want to d
 
 ### **Tally by Polygon**
 
-<img src="img/polygon.png" width="60">
+![plygon](img/polygon.png)
 
 The Tally by Polygon tool is used to count the items contained within the job or a desired section of the job. When you click on the tool, the software will prompt you to click to add points to the map for a polygon, outlining the section you want to count.
 
-<img src="img/polygonimg.png" width="600">
+![plygonimg](img/polygonimg.png)
 
 As items are surrounded by the polygon, a nodes, sections, and connections dropdown window will appear to the left. You can click on the dropdown to see a breakdown of the node and sections types and counts in the selected area, and a breakdown of the connection types and footages in the selected area.
 
@@ -816,27 +816,27 @@ Click on the “X” of the window at the bottom middle to cancel out the Tally 
 
 ### **Copy Nodes**
 
-<img src="img/copy nodes.png" width="60">
+![copy nodes](img/copy nodes.png)
 
 The Copy Nodes tool allows you to copy nodes or cut and paste nodes to another job. You can select an existing job or create a blank job for the nodes' destination when you copy or cut and paste them.
 
-<img src="img/cpynodes.png" width="600">
+![cpynodes](img/cpynodes.png)
 
 When you click the tool, the window to copy the nodes to another job will pop up. You can use the dropdown to pick the desired job or create a new one. Then you can choose whether you want to copy and paste or cut and paste nodes.
 
 You can choose to include connections and photos when copying/cutting and pasting. If you have any trace data, that data will also be copied if you choose to include connections and photos.
 
-<img src="img/select types.png" width="300">
+![select types](img/select types.png)
 
 The buttons at the bottom of the window let you choose how and what to copy. If you choose "Copy Type...," you will have the option to specify what node type you want to copy based on the node types that exist in your job. In the above example, nodes with type "pole" and type "reference" are available to copy. If you choose "Copy All," all nodes (and connections, if "Connections" is checked under the "INCLUDE" portion) will be copied.
 
 If you select "Choose Nodes..." you can then either draw a polygon around the nodes that you want to copy and paste or click on the nodes to select them.
 
-<img src="img/copynodes.gif" width="800">
+![copynodes](img/copynodes.gif)
 
 To draw a polygon around the nodes you want to select, click on the Map where you want the corners of your polygon to be (in the order that you would draw the outline). You can click and drag these points or right-click to remove the most recently placed polygon point. If you'd rather select nodes by clicking them, you can do this as well. Notice the window in the left corner of the screen that shows you the count for nodes (and connections) that will be included. The dropdown provides details of what type of node (or connection) is included.
 
-<img src="img/warning.png" width="300">
+![warning](img/warning.png)
    
     ⚠️ All node data from the job will be copied to the other selected job. If the two jobs have different map styles, you will see a warning asking if you want to proceed.
 
@@ -845,7 +845,7 @@ To draw a polygon around the nodes you want to select, click on the Map where yo
 
 ### **Join All Poles**
 
-<img src="img/joinpoles.png" width="60">
+![joinpoles](img/joinpoles.png)
 
 The Join All Poles tool is typically used in the **pre-design** or scoping step. If you hover your mouse over the tool, it will warn you that it should only be run once.
 
@@ -856,19 +856,19 @@ When you click the tool, it will add an aerial connection between each pole. How
 
 ### **Show Un-Associated Photos**
 
-<img src="img/unassociated.png" width="60">
+![unassociated](img/unassociated.png)
 
 The Show Un-Associated Photos tool is used when photos have been left unassociated during the association step. This tool is a legacy tool that allows you to quickly see all affected photos at a glance, which will then help fix any association errors.
 
 If you click on this tool, a photo tray will appear to the left of the map.
 
-<img src="img/canon.png" width="300">
+![canon](img/canon.png)
 
 The photo tray will display all unassociated photos. At the top of the window will be the camera that photos were not associated for. You can then see where the photos likely belong, and drag and drop them from the tray to the map location.
 
 At the bottom of the tray window is a menu.
 
-<img src="img/menu.png" width="300">
+![menu](img/menu.png)
 
 Clicking on the red “X” button will close the tray. The light blue button next to it with the arrow pointing out of the top right corner of a box will open the tray in a new window. The darker blue button with an image icon will toggle whether associated photos are also visible or not. The green button is for toggling the collapsed view, while the grey button with the trash can will delete all the unassociated photos from the job.
 
@@ -877,11 +877,11 @@ Clicking on the red “X” button will close the tray. The light blue button ne
 
 ### **Un-Associate Photos**
 
-<img src="img/x.png" width="60">
+![x](img/x.png)
 
 If you had any errors in associating the photos, you can click the Un-Associate Photos tool to unassociate photos from the nodes and midspans/sections in the job.
 
-<img src="img/uap.png" width="300">
+![uap](img/uap.png)
 
 When you click the tool, a window will appear in the center of the page. If you did have any photos where you have already manually moved or associated them, you can check the box to keep those photos at their current location.
 
@@ -890,7 +890,7 @@ When you click the tool, a window will appear in the center of the page. If you 
 
 ### **Insert Sections**
 
-<img src="img/triangle.png" width="60">
+![triangle](img/triangle.png)
 
 The Insert Sections tool will automatically insert a midspan section along all connections where no section currently exists.
 
@@ -901,13 +901,13 @@ The Insert Sections tool will automatically insert a midspan section along all c
 
 ### **Address Data**
 
-<img src="img/point.png" width="60">
+![point](img/point.png)
 
 You can quickly insert address data for locations on the map by using the Address Data tool.
 
 When you click on the Address Data tool, the address data window will pop up to select various options. At the bottom you can select what address attributes you wish to add to the node locations.
 
-<img src="img/addaddress.png" width="300">
+![addaddress](img/addaddress.png)
 
 With the "Add individual address attributes" checked, you may select or deselect the individual address attributes you wish to add. If you only have "Add 'Formatted Address' attribute selected, it will add a single "Address" attribute which contains the formatted address. The "Abbreviate State Name" will enter the state's abbreviation for the "State" attribute (if adding individual address attributes), otherwise the "State" attribute will have the full state name. Once you have the appropriate options selected, you have the choice to add to all nodes, add by node type, or manually select which nodes will get address data.
 
@@ -920,13 +920,13 @@ Once you have the type(s) you wish, click “Get Address Data”. The software w
 
 ### **Fix Map Errors**
 
-<img src="img/bandaid.png" width="60">
+![bandaid](img/bandaid.png)
 
 The Fix Map Errors tool is the band-aid icon in the toolset. This tool cleans up any corrupted data so that a job isn't prevented from exporting. Always get in the habit of clicking this tool before downloading exports, including PLA exports.
 
      ⚠️ If you have an underground project, save a snapshot of the job before running Fix Map Errors. This tool may delete faulty connections.
 
-<img src="img/noerrors.png" width="300">
+![noerrors](img/noerrors.png)
 
 If there are no errors, a notification will pop up at the bottom left of the page. If there were errors, the notification will tell you the amount of data cleaned up.
 
@@ -934,7 +934,7 @@ If there are no errors, a notification will pop up at the bottom left of the pag
 <br>
 
 ### **Clear Warnings**
-<img src="img\clearwarnings.png" width="60">
+![clearwarnings](img/clearwarnings.png)
 
 The Clear Warnings tool will remove the attribute “Warning” from all locations. In most cases, the "Warning" attribute is added to locations to provide any photo association warnings. This tool is clicked after you have fixed association errors and want to clear all the warnings at once (if you didn't already remove them manually one at a time as you fixed association errors).
 
@@ -942,7 +942,7 @@ The Clear Warnings tool will remove the attribute “Warning” from all locatio
 <br>
 
 ### **Star Height Photos**
-<img src="img\star.png" width="60">
+![star](img/star.png)
 
 Typically, when you associate photos you can auto-star height and midspan photos (as long as they have the "Midspan" or "Pole Height" photo chip on them). The Star Height Photos tool will allow you to run that again even after photos are associated. With this tool, you also have the option to star the first photo found if there is no height photo on the node or section.
 
@@ -950,19 +950,19 @@ Typically, when you associate photos you can auto-star height and midspan photos
 <br>
 
 ### **Fix Company Names**
-<img src="img/suitcase.png" width="60">
+![suitcase](img/suitcase.png)
 
 When you run this tool, you'll be able to change a company name found in cables and traces. For example, if you mistook one company for another while tracing, you could run this power tool to correct that everywhere that the incorrect company is annotated.
 
 When this tool is run, the following window will display. It'll show you companies that are found in the job to the left, and your Company dropdown attribute to the right.
 
-<img src="img/fix names.png" width="300">
+![fix names](img/fix names.png)
 
 <br>
 <br>
 
 ### **Draw Polygon**
-<img src="img/drawpolygon.png" width="60">
+![drawpolygon](img/drawpolygon.png)
 
 The Draw Polygon tool allows you to draw polygons inside Katapult Pro. The powerful aspect of polygons is the ability to not only edit the polygon, but any nodes/connections/sections inside it. 
 
@@ -970,12 +970,12 @@ The Draw Polygon tool allows you to draw polygons inside Katapult Pro. The power
 
 When you run the tool, you'll see a modal at the bottom of the screen telling you to click to draw your polygon. Once you're satisfied with your polygon and click "Create," you'll name it, give it a description (optional), update the color (optional), and select a layer to add the polygon (if there aren't any, you can quickly create one using the displayed "CREATE NEW LAYER" option). This layer is tied to the job. 
 
-<img src="img/createlayer.png" width="300">
+![createlayer](img/createlayer.png)
 
 
 The layer the polygon was added to is then turned on and off through the "Imported Layers" part of the map layers menu (bottom left corner of the software). In the above screenshot, the layer is called "Dillsburg Area," and is turned on since it's checked. (More than one polygon may be added to a layer.) The solid mouse icon next to its name indicates that it's selectable. This will allow me to edit the job or use the powerful job editing functions. 
 
-<img src="img/polygonedit.png" width="300">
+![polygonedit](img/polygonedit.png)
 
 
 Starting with the icons to the left underneath **"Polygon Editing"** and moving to the right, we have the following:
@@ -1003,21 +1003,21 @@ These tools can be used on an entire job itself from the job's tools or settings
 <br>
 
 ### Bulk Pole Loading
-<img src="img/arrow.png" width="60">
+![arrow](img/arrow.png)
 
 The Bulk Pole Loading tool will load your poles all at once and appropriately insert a pass or fail value to an attribute of your choosing. If you've properly annotated and **prepped your job for pole loading**, all you'll need to do is ensure that your nodes have a Load Case or Loading Analysis.
 
     Click the tool to run bulk pole loading. First you'll be asked to draw a polygon around the nodes you want to load at once.
 
-<img src="img/bulkpole.png" width="300">
+![bulkpole](img/bulkpole.png)
 
 In the prompt at the bottom of the screen, click "Select All" to select all nodes or draw a polygon around nodes to select a particular subset and click "Continue." As you draw a polygon, the number of nodes is counted towards the left and can be broken down to the count based on map styles.
 
-<img src="img/bulkload.png" width="300">
+![bulkload](img/bulkload.png)
 
 Once nodes are selected, choose whether you want to load your selection under existing conditions or proposed conditions. Then you can choose an attribute and its value to set on the node if it passes loading, as well as an attribute you want to set to a specific value if it fails. The default for passing and failing is the Loading Result attribute set to pass and fail, respectively.
 
-<img src="img/loadresults.png" width="600">
+![loadresults](img/loadresults.png)
 
 Once the poles are loaded, the results will display in a window. We creation an **Action** to track who runs pole loading, so there is a toast in the bottom left corner to alert this Action has been recorded.
 
@@ -1025,7 +1025,7 @@ Once the poles are loaded, the results will display in a window. We creation an 
 <br>
 
 ### Offset Lines
-<img src="img/offset.png" width="60">
+![offset](img/offset.png)
 
 This power tool will place reference lines on either side of a connection based on the offset input by the user. This can be useful, for example, for placing a visualization of the right of way of state roads.
 
@@ -1035,4 +1035,4 @@ Run the tool, click on the connection, and it takes care of the rest. The offset
 <br>
 
 ### Notes
-The Office Power tools were created by Katapult developers and can not be edited in the Model Editor. You can remove tools you do not use or need from the Toolsets section in Model Editor, but if you need assistance modifying existing power tools, or want an estimate to create a power tool, reach out to ***support@katapultengineering.com***.
+The Office Power tools were created by Katapult developers and can not be edited in the Model Editor. You can remove tools you do not use or need from the Toolsets section in Model Editor
