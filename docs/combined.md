@@ -248,19 +248,19 @@ Clicking on this reference span (the pink span with the orange arrow pointing to
 
     ⚠️ Having dual monitors is helpful because you don’t need to keep switching between the Photos tab and the Map tab.
 
-<img src="img/2pictures.png" width="500">
+![2pictures](img/2pictures.png)
 
 If you need to switch the order of the photos in this view, you can click on the “Swap Photos” button located at the top middle of the page. Choose a photo order that makes sense to you and simplifies the annotation and tracing process.
 
 ## Placing Markers
 
-<img src="img/crossarm.png" width="500">
+![crossarm](img/crossarm.png)
 
 At this first span, start on the pole photo, and open the One-Click Menu by left-clicking on the photo, which places a temporary input marker. Then, if you have the option, click on the black icon (we call this the Photo Toolset Chooser) and make sure you are using the Measure picklist (or the Measure Photo Toolset).
 
 Once you have your Photo Toolset selected, you will see a list with different assemblies, equipment, and wires.
 
-<img src="img/crossarm2.png" width="500">
+![crossarm2](img/crossarm2.png)
 
 Some of them might also have a letter or number in parenthesis to show the keyboard shortcut associated with the option.
 
@@ -268,11 +268,11 @@ Start at the top of the pole and work your way down when annotating attachments.
 
 To add a marker, select the correct or closest option from the dropdown. You can filter out the options in the picklist by typing in the search bar.
 
-<img src="img/crossarm3.png" width="500">
+![crossarm3](img/crossarm3.png)
 
 Once you find the correct option, click it. If it is a routine, the software will run you through the entire routine. For example, if the "Ridge Pin & 2 On Arm (2)" was selected, the top ridge pin would be placed first, and the next click on the photo would place the 8' arm with 2 pins nested in it. (The 2 in parentheses tells us that we could hit '2' on the keyboard instead of left-clicking to open the One-Click Menu to run through this routine.)
 
-<img src="img/crossarm.gif" width="500">
+![crossarm](img/crossarm.gif){width=500}
 
 When you place a marker on the photo, you want to make sure you click where the bolt goes through the pole face you are measuring for consistency. Be sure to account for parallax that occurs; if the bolt is not on the front-facing side of the pole, it may mean that the bolt hole is slightly above or below the bolt, depending on what side of the pole it's on.
 
