@@ -5,7 +5,7 @@ hide:
 
 # Katapult Use Manual
 
-Welcome! This site contains detailed instructions for using Katapult Pro. Use it alongside the Katapult SOP Word document.
+Welcome! This site contains detailed instructions for using Katapult Pro. Use it alongside the Katapult SOP Word document located in OneDrive [input file path when final version is created].
 
 ## How to Navigate
 
@@ -22,4 +22,4 @@ The sidebar contains links to each section. Click on any topic to jump to that s
 
 1. Look for your topic in the sidebar menu
 2. Click to expand subsections
-3. Use your browser's search (Ctrl+F or Cmd+F) to find specific terms or workflows
+3. Use your browser's search (Ctrl+F or Cmd+F) or use the integrated search bar in the top right.
