@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Katapult Use Manual
+# ATCO Katapult Use Manual
 
 Welcome! This site contains detailed instructions for using Katapult Pro. Use it alongside the Katapult SOP Word document located in OneDrive [input file path when final version is created].
 
