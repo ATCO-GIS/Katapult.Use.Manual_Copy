@@ -6,4 +6,4 @@ theme:
     - stylesheets/extra.css
 nav:
   - Home: index.md
-  - Content: combined.md
+  - Manual: combined.md
